@@ -1,0 +1,85 @@
+/*homepage */
+.home {
+  display: flex;
+  width: 100%;
+}
+
+/*home left*/
+.home-l {
+  height: 100vh;
+  width: 60%;
+  background-color: #e0fcff;
+}
+.outer-box {
+  display: flex;
+}
+.box {
+  font-family: "Roboto Slab", serif;
+  height: 500px;
+  width: 700px;
+  /* background-color: lightpink; */
+  margin-left: 10rem;
+  margin-top: 13rem;
+}
+
+/*homeright*/
+.home-r {
+  height: 100vh;
+  width: 40%;
+  background-color: white;
+}
+.box-r {
+  display: flex;
+  margin-left: -10rem;
+}
+
+.svg {
+  width: 50rem;
+  height: 50rem;
+  /* background-color: lightskyblue; */
+  margin-left: -36rem;
+  margin-top: -3.5rem;
+}
+
+.hdp {
+  width: 30rem;
+  height: 30rem;
+  border-radius: 15rem;
+  z-index: 10;
+  margin-top: 8rem;
+}
+.hdp-box {
+  z-index: 1;
+  width: 30rem;
+  padding-left: 5rem;
+}
+.underline {
+  width: 7rem;
+  height: 0.25rem;
+  background: #2caeba;
+  margin-right: auto;
+}
+.heading {
+  font-size: 70px;
+  /* background-color: cornflowerblue; */
+  margin-top: 10px;
+  padding-left: 5px;
+  display: flex;
+  color: #102a42;
+}
+.heading p {
+  color: #2caeba;
+  margin: 0px;
+  padding-left: 20px;
+}
+
+.typed {
+  font-size: 40px;
+  color: #617d98;
+}
+/* 
+light: #E0FCFF
+black: #617D98
+dark: #2CAEBA 
+dark2: #289DA8
+dark blue: 102A42*/
