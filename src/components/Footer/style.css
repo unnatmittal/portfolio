@@ -1,0 +1,16 @@
+/*
+light: #E0FCFF
+black: #617D98
+dark: #2CAEBA 
+dark2: #289DA8
+dark blue: #102A42
+bg color : #F1F5F8
+text: #425B73
+*/
+body {
+  font-family: "Roboto Slab", serif;
+}
+.footer {
+  background-color: darkslategray;
+  height: 15vh;
+}

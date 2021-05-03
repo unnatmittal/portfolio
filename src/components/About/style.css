@@ -28,7 +28,7 @@ body {
 .git-box {
   width: 25%;
   height: 40rem;
-  margin-top: 7rem;
+  margin-top: 5rem;
   background-color: #e0fcff;
   border-style: groove;
   border-width: 10px;
@@ -98,7 +98,7 @@ body {
 .me-box {
   width: 40%;
   height: 40rem;
-  margin-top: 5rem;
+  margin-top: 3rem;
 }
 .me-box h1 {
   color: #102a42;
@@ -112,4 +112,5 @@ body {
   margin-top: 3rem;
   font-size: 23px;
   color: #617d98;
+  text-align: justify;
 }

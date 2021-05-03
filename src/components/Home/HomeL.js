@@ -18,10 +18,10 @@ export const HomeL = () => {
           <Typed
             className="typed"
             strings={[
-              "Web Design",
-              "Web Development",
-              "App Development",
-              "Data Structures",
+              "Web Designer",
+              "Web Developer",
+              "App Developer",
+              "Software Programmer",
             ]}
             typeSpeed={40}
             backSpeed={60}
