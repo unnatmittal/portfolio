@@ -58,7 +58,7 @@ export const Proj = () => {
         <Item
           head="Corona Map"
           img={corona}
-          link="https://github.com/unnatmittal/coronaMap"
+          link="https://github.com/unnatmittal/corona-map"
           para="There are many variations of passages of Lorem Ipsum available, but
           the majority have suffered alteration in some form, by injected
           humour, or randomised words which don't look even slightly believable.

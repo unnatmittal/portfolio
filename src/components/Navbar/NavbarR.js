@@ -5,7 +5,7 @@ export const NavbarR = () => {
   return (
     <header className="header">
       <div className="right">
-        <a href="#home">
+        <a href="/">
           <span className="right-e">Home</span>
         </a>
         <a href="#about">

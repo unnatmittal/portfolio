@@ -50,7 +50,7 @@ body {
 .right-e:hover {
   color: #2caeba;
   border-bottom: 3px solid #2caeba;
-  transition: 0.3s;
+  transition: 0.15s;
 }
 
 /*logo*/
