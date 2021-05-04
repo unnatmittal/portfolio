@@ -2,6 +2,7 @@ import React, { useState, useEffect } from "react";
 import "./style.css";
 import repo from "../../assets/repo.png";
 import follower from "../../assets/follower.png";
+import { Social } from "../Footer/Social";
 
 export const About = () => {
   const api = "https://api.github.com/users/unnatmittal";
@@ -71,6 +72,9 @@ export const About = () => {
               Followers {followers}. Following {following}
             </h4>
           </div>
+        </div>
+        <div className="s-box">
+          <Social />
         </div>
       </div>
       <div className="me-box">

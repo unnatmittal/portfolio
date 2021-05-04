@@ -15,28 +15,32 @@ body {
   width: 100%;
   height: 85vh;
   place-items: center;
-  padding-top: 4rem;
-  padding-bottom: 4rem;
+  padding-top: 6rem;
+  padding-bottom: 5rem;
   background-color: #f1f5f8;
 }
 .c-box {
-  width: 40rem;
-  height: 30rem;
-  background-color: #2caeba;
+  width: 35rem;
+  height: 28rem;
+  background-color: #e0fcff;
   margin: 0 auto;
+  padding-top: 2rem;
+  box-shadow: 0 8px 10px 0 rgba(16, 42, 66, 0.6),
+    0px 6px 10px 0px rgba(0, 0, 0, 0.19);
+  border-radius: 5px;
 }
 .c-box h2 {
   text-align: center;
   color: #102a42;
   font-size: 40px;
   font-weight: 700;
+  font-family: "Roboto Slab", serif;
 }
 .c-box form {
   margin: 2rem 0rem;
 }
 .form-group {
   padding: 1rem 1.5rem;
-  background-color: blueviolet;
 }
 .form-control {
   display: block;
@@ -45,18 +49,20 @@ body {
   border: none;
   margin-bottom: 1.25rem;
   border-radius: 5px;
+  font-family: "Roboto Slab", serif;
 }
 .submit-btn {
   display: block;
   width: 100%;
   text-transform: uppercase;
-  background: black;
+  background: #2caeba;
   color: white;
   padding: 0.375rem 0.75rem;
   display: inline-block;
-  font-weight: 700;
-  font-size: 0.875rem;
+  font-weight: 600;
+  font-size: 0.95rem;
   border: 2px solid transparent;
   cursor: pointer;
   box-shadow: 0 1px 3px rgb(0 0 0 / 20%);
+  font-family: "Roboto Slab", serif;
 }

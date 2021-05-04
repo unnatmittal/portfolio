@@ -27,30 +27,33 @@ body {
 
 .git-box {
   width: 25%;
-  height: 40rem;
+  height: 36.7rem;
   margin-top: 5rem;
   background-color: #e0fcff;
   border-style: groove;
   border-width: 10px;
   border-color: #289da8;
+  box-shadow: 0 8px 10px 0 rgba(16, 42, 66, 0.6),
+    0px 6px 10px 0px rgba(0, 0, 0, 0.19);
+  border-radius: 5px;
 }
 .av-box {
   width: auto;
-  height: 20rem;
+  height: 18rem;
   text-align: center;
   margin-top: 2rem;
 }
 
 .av-box img {
-  width: 20rem;
-  height: 20rem;
+  width: 18rem;
+  height: 18rem;
   border-radius: 10rem;
 }
 
 .ele {
   width: 20rem;
   text-align: left;
-  margin-left: 17%;
+  margin-left: 12%;
   line-height: 0.5;
 }
 
@@ -58,10 +61,12 @@ body {
   color: #102a42;
   font-size: 45px;
   font-weight: bold;
+  font-family: "Roboto Slab", serif;
 }
 
 .ele h2 {
   color: #617d98;
+  font-family: "Roboto Slab", serif;
   font-size: 35px;
   font-weight: 500;
 }
@@ -71,13 +76,14 @@ body {
   align-items: center;
   width: 17rem;
   height: 30px;
-  border-top: 6px solid #2caeba;
+  border-top: 5px solid #2caeba;
   margin-top: 1rem;
-  padding-top: 1rem;
+  padding-top: 1.5rem;
 }
 .repo-box h3 {
   color: #102a42;
   font-size: 22px;
+  font-family: "Roboto Slab", serif;
 }
 
 .f-box {
@@ -85,7 +91,7 @@ body {
   align-items: center;
   width: 17rem;
   height: 20px;
-  margin-top: 10px;
+  margin-top: 1rem;
 }
 .f-box img {
   width: 25px;
@@ -94,23 +100,35 @@ body {
 .f-box h4 {
   color: #102a42;
   font-size: 18px;
+  font-family: "Roboto Slab", serif;
 }
 .me-box {
   width: 40%;
-  height: 40rem;
-  margin-top: 3rem;
+  height: 37rem;
+  margin-top: 4rem;
 }
 .me-box h1 {
   color: #102a42;
-  font-size: 50px;
-  width: 20rem;
-  border-bottom: solid 7px #2caeba;
+  font-size: 46px;
+  font-weight: 600;
+  width: 17rem;
+  border-bottom: solid 6px #2caeba;
   padding-bottom: 1rem;
+  font-family: "Roboto Slab", serif;
 }
 
 .para {
   margin-top: 3rem;
-  font-size: 23px;
-  color: #617d98;
+  font-size: 20px;
+  color: #425b73;
   text-align: justify;
+  font-family: "Roboto Slab", serif;
+}
+
+/*social icons*/
+.s-box {
+  background-color: #102a42;
+  margin-top: 0.6rem;
+  height: 3.3rem;
+  padding-top: 12px;
 }

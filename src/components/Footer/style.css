@@ -11,6 +11,47 @@ body {
   font-family: "Roboto Slab", serif;
 }
 .footer {
-  background-color: darkslategray;
-  height: 15vh;
+  background-color: #102a42;
+  height: 19vh;
+  text-align: center;
+  place-items: center;
+  padding-top: 2rem;
+}
+
+.social {
+  width: 17rem;
+  margin: 0 auto;
+  display: flex;
+  display: flex;
+  justify-content: space-between;
+}
+.copyright {
+  width: 33rem;
+  text-align: center;
+  place-items: center;
+  margin: 1.5rem auto;
+}
+.copyright h3 {
+  font-family: "Roboto Slab", serif;
+  font-size: 17px;
+  color: #fff;
+  display: flex;
+  word-spacing: 3px;
+  letter-spacing: 1.5px;
+}
+.copyright h3 p {
+  color: #2caeba;
+  margin: auto 8px;
+}
+
+.social a svg {
+  fill: #fff;
+  width: 2em;
+  height: 2em;
+  stroke-width: 0px;
+}
+
+.social a svg:hover {
+  fill: #2caeba;
+  transition: 0.4s;
 }

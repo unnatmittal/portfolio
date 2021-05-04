@@ -9,10 +9,16 @@ function App() {
   return (
     <div>
       <Home />
-      <About />
-      <Proj />
-      <Contact />
-      <Footer />
+      <div id="about">
+        <About />
+      </div>
+      <div id="projects">
+        <Proj />
+      </div>
+      <div id="contact">
+        <Contact />
+        <Footer />
+      </div>
     </div>
   );
 }
