@@ -20,79 +20,37 @@ export const Proj = () => {
           head="SAATHI"
           img={saathi}
           link="/"
-          para="There are many variations of passages of Lorem Ipsum available, but
-          the majority have suffered alteration in some form, by injected
-          humour, or randomised words which don't look even slightly believable.
-          If you are going to use a passage of Lorem Ipsum, you need to be sure
-          there isn't anything embarrassing hidden in the middle of text. All
-          the Lorem Ipsum generators on the Internet tend to repeat predefined
-          chunks as necessary, making this the first true generator on the
-          Internet."
+          para="A social media platform for people who are talented in co-curricular activities. It connects seekers to finders/recruiters according to the specific activity. It works on geo-location factor i.e.; it can give the location and distance between you and the talent you are looking for. Example – if someone wants to open a music band then he can easily connect to talented drummers, guitarists, etc. through this app. It is a team project and is under development."
         />
         <Item
           head="Cric-Fantasy"
           img={cricfantasy}
           link="https://github.com/unnatmittal/cric-fantasy"
-          para="There are many variations of passages of Lorem Ipsum available, but
-          the majority have suffered alteration in some form, by injected
-          humour, or randomised words which don't look even slightly believable.
-          If you are going to use a passage of Lorem Ipsum, you need to be sure
-          there isn't anything embarrassing hidden in the middle of text. All
-          the Lorem Ipsum generators on the Internet tend to repeat predefined
-          chunks as necessary, making this the first true generator on the
-          Internet."
+          para="Cric-Fantasy is a cricket-fantasy-stock game app. It is for people who are cricket lovers and have a decent interest in stocks. In this each cricket player is like company stock in share market and w.r.t player’s performance his prices vary. Basically the user can be like cricket expert who can predicts the score of certain players and can make profit by investing in them. It is a 2-member project, main contribution from me is the idea of the game, it is also under development."
         />
         <Item
           head="Expense Tracker"
           img={extracker}
           link="https://github.com/unnatmittal/expense-tracker"
-          para="There are many variations of passages of Lorem Ipsum available, but
-          the majority have suffered alteration in some form, by injected
-          humour, or randomised words which don't look even slightly believable.
-          If you are going to use a passage of Lorem Ipsum, you need to be sure
-          there isn't anything embarrassing hidden in the middle of text. All
-          the Lorem Ipsum generators on the Internet tend to repeat predefined
-          chunks as necessary, making this the first true generator on the
-          Internet."
+          para="Expense Tracker can manage the person’s finance day-wise, week-wise, month-wise with incoming and outgoing incomes. It can easy the finanace management for the users who spend money loosely. User can connect to it from anywhere as it is sync with google firebase. It is beneficial for people who wants to control their expenses for a better living. It is a solo-project"
         />
         <Item
           head="Corona Map"
           img={corona}
           link="https://github.com/unnatmittal/corona-map"
-          para="There are many variations of passages of Lorem Ipsum available, but
-          the majority have suffered alteration in some form, by injected
-          humour, or randomised words which don't look even slightly believable.
-          If you are going to use a passage of Lorem Ipsum, you need to be sure
-          there isn't anything embarrassing hidden in the middle of text. All
-          the Lorem Ipsum generators on the Internet tend to repeat predefined
-          chunks as necessary, making this the first true generator on the
-          Internet."
+          para="Corona Map, gives you the world map with different zones of colors. It is an API project, gives world's COVID-19 data. It will darken the spots on the world map where no. of cases are more.New version of the project is on progress - User can search any city and redirected to city map with district COVID-19 data."
         />
         <Item
           head="Tesla Clone"
           img={tesla}
           link="https://github.com/unnatmittal/tesla"
-          para="There are many variations of passages of Lorem Ipsum available, but
-          the majority have suffered alteration in some form, by injected
-          humour, or randomised words which don't look even slightly believable.
-          If you are going to use a passage of Lorem Ipsum, you need to be sure
-          there isn't anything embarrassing hidden in the middle of text. All
-          the Lorem Ipsum generators on the Internet tend to repeat predefined
-          chunks as necessary, making this the first true generator on the
-          Internet."
+          para="Tesla Clone is a React Native Project. It has new models of cars each with its own specification and prices. It has some decent UI properties."
         />
         <Item
           head="Vrikshandolan"
           img={vrikshandolan}
           link="https://vrikshandolan.com/"
-          para="There are many variations of passages of Lorem Ipsum available, but
-          the majority have suffered alteration in some form, by injected
-          humour, or randomised words which don't look even slightly believable.
-          If you are going to use a passage of Lorem Ipsum, you need to be sure
-          there isn't anything embarrassing hidden in the middle of text. All
-          the Lorem Ipsum generators on the Internet tend to repeat predefined
-          chunks as necessary, making this the first true generator on the
-          Internet."
+          para="Vrikshandolan – NGO, which is committed to planting trees near Delhi NCR. Vrikshandolan’s aim is to take corrective measures to increase the green cover, restore soil health and manage natural resources appropriately. Vrikshandolan plants saplings and supports them to become trees. At Vrikshandolan we have been creating urban and rural forests. Vrikshandolan does all this with support from individuals and corporates who wish to bring change to society under their CSR (Corporate Social Responsibility) initiatives."
         />
       </div>
     </div>
