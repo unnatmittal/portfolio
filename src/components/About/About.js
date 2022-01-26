@@ -80,9 +80,9 @@ export const About = () => {
       <div className="me-box">
         <h1>ABOUT ME</h1>
         <p className="para">
-          Hi! I am Unnnnnnnnnnnnnnnnnnnnnnnnat Mittal, a passionate programmer
-          and a developer, lives in Delhi. I am currently pursuing
-          Instrumentaion and Control Engineering from NSUT, Dwarka, New Delhi.
+          Hi! I am Unnat Mittal, a passionate programmer and a developer, lives
+          in Delhi. I am currently pursuing Instrumentaion and Control
+          Engineering from NSUT, Dwarka, New Delhi.
           <br />I am Full Stack Developer with React.js, Redux, Node.js, React
           Native, MongoDB, Firebase as my tech stack. I have worked with Team
           Vrikshandolan as Web Developer.
